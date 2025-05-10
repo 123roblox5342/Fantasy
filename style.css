@@ -1,0 +1,25 @@
+
+.logo{
+  border: 5px solid yellow;
+}
+.a{
+  text-align: center;
+  color:red
+}
+.boss{
+   border: 5px solid blue;
+}
+.link{
+  background-color: rgba(198, 112, 0, 0.869);
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 20px;
+}
+html{
+ background-color: purple
+}
+iframe{
+  border: 5px solid blue
+}
